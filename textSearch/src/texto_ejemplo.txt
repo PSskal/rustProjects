@@ -1,0 +1,6 @@
+Este es un ejemplo de texto.
+Puede ser utilizado para pruebas de búsqueda de texto.
+El objetivo es encontrar patrones específicos dentro de este texto.
+Este texto adicional sirve para ampliar las pruebas.
+Podemos buscar palabras, frases o patrones específicos.
+La búsqueda debe ser precisa y eficiente.
